@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Users\merve\source\repos\Project1\Project1\Source.c(77,5): warning C4098: 'main': 'void' function returning a value
+C:\Users\merve\source\repos\Project1\Project1\Source.c(194,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\merve\source\repos\Project1\Project1\Source.c(248,6): warning C4098: 'main': 'void' function returning a value
+C:\Users\merve\source\repos\Project1\Project1\Source.c(259,67): warning C4133: 'function': incompatible types - from 'node *' to 'const char *'
+C:\Users\merve\source\repos\Project1\Project1\Source.c(261,5): warning C4098: 'main': 'void' function returning a value
+C:\Users\merve\source\repos\Project1\Project1\Source.c(286,6): warning C4098: 'main': 'void' function returning a value
+C:\Users\merve\source\repos\Project1\Project1\Source.c(376,4): warning C4098: 'main': 'void' function returning a value
+C:\Users\merve\source\repos\Project1\Project1\Source.c(382,2): warning C4098: 'main': 'void' function returning a value
+  Project1.vcxproj -> C:\Users\merve\source\repos\Project1\Debug\Project1.exe
